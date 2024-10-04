@@ -271,13 +271,31 @@ Durante la práctica se mostraron los elementos básicos de un URDF y se explic�
 ## Código elaborado en clase de una junta:
 
 
-![Interfaz de rviz](imagenes_P1/codigo_junta.png "Imagen 4. Código de una junta")
+![Código de una junta](imagenes_P1/codigo_junta.png "Imagen 4. Código de una junta")
 
 
+## Código del segundo enlace elaborado por el alumno: 
 
 
+![Código del segundo enlace](imagenes_P1/link2.png "Imagen 5. Código del segundo enlace")
 
-# Referencias:
+
+## Código de la segunda junta elaborada por el alumno: 
+
+![Código de la segunda junta](imagenes_P1/Enlace2.png "Imagen 6. Código de la segunda junta")
+
+# Resultados
+
+## Foto del rviz:
+
+![Resultados](imagenes_P1/Resultados.png "Imagen 7. Resultado")
+
+## Video de su funcionamiento 
+
+<video src = "videos_P1/Robot_funcionando" width = "320" heigth = "240" controls> </video> 
+
+
+# Referencias
 
 - J. E. Cabrera Muñoz. “Todo lo que necesitas saber de los archivos URDF -”. - Todo lo que necesitas saber de los archivos URDF. Accedido el 3 de octubre de 2024. [En línea]. Disponible: https://robotica-facil-con-ros2.es/?p=1439
 
