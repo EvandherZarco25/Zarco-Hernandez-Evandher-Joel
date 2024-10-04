@@ -1,0 +1,25 @@
+-- Install configuration: ""
+-- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/examen_description/share/examen_description//launch
+-- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/examen_description/share/examen_description//launch/scara_display.launch.xml
+-- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/examen_description/share/examen_description//rviz
+-- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/examen_description/share/examen_description//rviz/scara_rviz.rviz
+-- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/examen_description/share/examen_description//urdf
+-- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/examen_description/share/examen_description//urdf/scara_urdf.xacro
+-- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/examen_description/share/examen_description//urdf/scara_simple_controller.xacro
+-- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/examen_description/share/examen_description//urdf/scara_gz_propierties.xacro
+-- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/examen_description/share/examen_description//urdf/scara_basic_position_controller.xacro
+-- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/examen_description/share/ament_index/resource_index/package_run_dependencies/examen_description
+-- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/examen_description/share/ament_index/resource_index/parent_prefix_path/examen_description
+-- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/examen_description/share/examen_description/environment/ament_prefix_path.sh
+-- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/examen_description/share/examen_description/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/examen_description/share/examen_description/environment/path.sh
+-- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/examen_description/share/examen_description/environment/path.dsv
+-- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/examen_description/share/examen_description/local_setup.bash
+-- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/examen_description/share/examen_description/local_setup.sh
+-- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/examen_description/share/examen_description/local_setup.zsh
+-- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/examen_description/share/examen_description/local_setup.dsv
+-- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/examen_description/share/examen_description/package.dsv
+-- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/examen_description/share/ament_index/resource_index/packages/examen_description
+-- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/examen_description/share/examen_description/cmake/examen_descriptionConfig.cmake
+-- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/examen_description/share/examen_description/cmake/examen_descriptionConfig-version.cmake
+-- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/examen_description/share/examen_description/package.xml

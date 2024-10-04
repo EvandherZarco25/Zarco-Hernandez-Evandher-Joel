@@ -1,0 +1,9 @@
+/home/robousr/ROS2Dev/robot_2025_ws/src/build/examen_description/CMakeFiles/uninstall.dir
+/home/robousr/ROS2Dev/robot_2025_ws/src/build/examen_description/CMakeFiles/examen_description_uninstall.dir
+/home/robousr/ROS2Dev/robot_2025_ws/src/build/examen_description/CMakeFiles/test.dir
+/home/robousr/ROS2Dev/robot_2025_ws/src/build/examen_description/CMakeFiles/edit_cache.dir
+/home/robousr/ROS2Dev/robot_2025_ws/src/build/examen_description/CMakeFiles/rebuild_cache.dir
+/home/robousr/ROS2Dev/robot_2025_ws/src/build/examen_description/CMakeFiles/list_install_components.dir
+/home/robousr/ROS2Dev/robot_2025_ws/src/build/examen_description/CMakeFiles/install.dir
+/home/robousr/ROS2Dev/robot_2025_ws/src/build/examen_description/CMakeFiles/install/local.dir
+/home/robousr/ROS2Dev/robot_2025_ws/src/build/examen_description/CMakeFiles/install/strip.dir

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<robot name="robot_scara" xmlns:xacro="http://ros.org/wiki/xacro">
+
+    <xacro:property name="package_name" value="examen_description" />
+    
+    <xacro:include filename="$(find ${package_name})/urdf/scara_urdf.xacro"/>
+
+    <xacro:include filename="$(find ${package_name})/urdf/scara_gz_propierties.xacro"/>
+
+    <xacro:include filename="$(find ${package_name})/urdf/scara_basic_position_controller.xacro"/>
+
+</robot>

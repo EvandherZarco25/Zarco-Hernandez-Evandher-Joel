@@ -1,0 +1,26 @@
+[0.026s] Invoking command in '/home/robousr/ROS2Dev/robot_2025_ws/src/build/practica1_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robousr/ROS2Dev/robot_2025_ws/src/build/practica1_description -- -j2 -l2
+[0.070s] Invoked command in '/home/robousr/ROS2Dev/robot_2025_ws/src/build/practica1_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robousr/ROS2Dev/robot_2025_ws/src/build/practica1_description -- -j2 -l2
+[0.099s] Invoking command in '/home/robousr/ROS2Dev/robot_2025_ws/src/build/practica1_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/robousr/ROS2Dev/robot_2025_ws/src/build/practica1_description
+[0.109s] -- Install configuration: ""
+[0.109s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description//launch
+[0.109s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description//launch/basic_link_display.launch.xml
+[0.109s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description//rviz
+[0.109s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description//rviz/basic_link_display.rviz
+[0.109s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description//urdf
+[0.109s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description//urdf/basic_link.urdf
+[0.109s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/ament_index/resource_index/package_run_dependencies/practica1_description
+[0.110s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/ament_index/resource_index/parent_prefix_path/practica1_description
+[0.110s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description/environment/ament_prefix_path.sh
+[0.110s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description/environment/ament_prefix_path.dsv
+[0.110s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description/environment/path.sh
+[0.110s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description/environment/path.dsv
+[0.110s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description/local_setup.bash
+[0.110s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description/local_setup.sh
+[0.110s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description/local_setup.zsh
+[0.110s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description/local_setup.dsv
+[0.110s] -- Installing: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description/package.dsv
+[0.110s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/ament_index/resource_index/packages/practica1_description
+[0.110s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description/cmake/practica1_descriptionConfig.cmake
+[0.110s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description/cmake/practica1_descriptionConfig-version.cmake
+[0.110s] -- Up-to-date: /home/robousr/ROS2Dev/robot_2025_ws/src/install/practica1_description/share/practica1_description/package.xml
+[0.119s] Invoked command in '/home/robousr/ROS2Dev/robot_2025_ws/src/build/practica1_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/robousr/ROS2Dev/robot_2025_ws/src/build/practica1_description
