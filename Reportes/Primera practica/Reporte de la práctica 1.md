@@ -11,6 +11,7 @@ El objetivo de esta practica es que el alumno comprenda, interprete y modifique 
 - Que el alumno conozca los elementos de los archivos launch en ROS 2.
 - Que el alumno sea capaz de vizualizar un robot descrito en un archivo URDF mediante la aplicación de RVIZ
 
+
 ### Contribución al perfil del egresado
 
 La siguiente práctica contribuye en los siguientes puntos al perfil del egresado:
