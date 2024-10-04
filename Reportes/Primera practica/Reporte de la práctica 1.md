@@ -292,8 +292,7 @@ Durante la práctica se mostraron los elementos básicos de un URDF y se explic�
 
 ## Video de su funcionamiento 
 
-<video src = "videos_P1/Robot_funcionando" width = "320" heigth = "240" controls> </video> 
-
+[![Rpbpt practica 1](https://i9.ytimg.com/vi_webp/4hIZaWyVK6w/mqdefault.webp?v=670006d6&sqp=CPSMgLgG&rs=AOn4CLAa-0qtfP50ZFe0sIwr9q0tbFNEeA)](https://youtube.com/shorts/vOo6wphpzqQ?si=Mmih01uDJ0wJ1OH4)
 
 # Referencias
 
